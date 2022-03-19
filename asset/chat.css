@@ -1,0 +1,80 @@
+body{
+    box-sizing: border-box;
+    background-color: silver;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    border: 1px solid orange;
+    margin-left: 290px;
+    border-radius: 12px;
+    width: 205px;
+    height: 50px;
+    background-color: orange;
+
+}
+
+.chat{
+    text-align: left;
+    border: orange solid 2px;
+    border-radius: 15px;
+    width: 400px;
+    height: 451px;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-color: #575454;
+}
+
+.message {
+    font-family: cursive;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    border-radius: 12px;
+    padding: 3px;
+    margin-right: 70px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 3px;
+}
+
+.user-inputs{
+    margin-top: 270px;
+    margin-left: 15px;
+}
+
+#author{
+    border-radius: 12px;
+    text-decoration-line: none;
+    border:orange solid 2px;
+    width: 72px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+
+
+#content{
+    border-radius: 12px;
+    text-decoration-line: none;
+    border:orange solid 2px;
+    width: 230px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+
+#submit{
+    text-align: center;
+    margin-left: 10px;
+    width:60px;
+    text-decoration-line: none;
+    border-radius: 12px;
+    font-weight: bold;
+    background-color: orange;
+    color: white;
+    border-color: orange;
+}
